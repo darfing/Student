@@ -1,0 +1,15 @@
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+/.classpath
+/jgoodies-common-1.8.0.jar
+/.project
+/jgoodies-common-1.8.0-sources.jar
+/jgoodies-forms-1.8.0.jar
+/jgoodies-forms-1.8.0-sources.jar
+/Student.jar
